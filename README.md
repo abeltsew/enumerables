@@ -94,6 +94,13 @@ In order to run this project you need: to install ruby
 
 <!-- CONTRIBUTING -->
 
+## 🔭 Future Features <a name="future-features"></a>
+
+> In the Future the project may include
+
+- [ ] **Max**
+- [ ] **MIN**
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
