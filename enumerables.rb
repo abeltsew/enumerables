@@ -1,4 +1,4 @@
-require_relative 'myEnums'
+require_relative 'myenums'
 
 class MyList
   include MyEnumerable
